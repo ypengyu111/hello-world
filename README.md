@@ -1,5 +1,5 @@
 # hello-world
 hello world
-<div>
+<div style='color:yellow'>
   new start
  </div>
